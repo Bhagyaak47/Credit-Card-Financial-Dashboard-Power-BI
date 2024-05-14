@@ -5,8 +5,6 @@
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends,
 enabling stakeholders to monitor and analyze credit card operations effectively.
 
-# Problem Statement:
-The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
 # Data Cleaning/ Preparation:
 - There are two tables Credit_card.csv(18 Columns & 10108 Rows) & customer.csv.(15 Columns & 10108 Rows)
